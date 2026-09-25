@@ -1,0 +1,1 @@
+Guarda el HTML como index.html. Guarda los iconos generados como icon-192.png e icon-512.png. Sube todos los archivos a GitHub Pages.
