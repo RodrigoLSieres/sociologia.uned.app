@@ -1,1 +1,14 @@
-Guarda el HTML como index.html. Guarda los iconos generados como icon-192.png e icon-512.png. Sube todos los archivos a GitHub Pages.
+ARCHIVOS PARA GITHUB PAGES
+
+1. Borra o sustituye en el repositorio los archivos anteriores.
+2. Sube a la raíz estos cinco archivos:
+   - index.html
+   - manifest.json
+   - service-worker.js
+   - icon-192.png
+   - icon-512.png
+3. Confirma los cambios con Commit changes.
+4. Si ya tenías la aplicación instalada, elimina el acceso directo anterior.
+5. Abre de nuevo la página publicada y usa Instalar aplicación o Añadir a pantalla de inicio.
+
+Los datos académicos se almacenan en el navegador de cada dispositivo mediante almacenamiento local.
